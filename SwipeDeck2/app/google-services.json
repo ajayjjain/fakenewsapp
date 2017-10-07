@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "584132396425",
+    "firebase_url": "https://fake-news-app.firebaseio.com",
+    "project_id": "fake-news-app",
+    "storage_bucket": "fake-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584132396425:android:7949c4cd03ef7461",
+        "android_client_info": {
+          "package_name": "com.daprlabs.aaron.swipedeck2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584132396425-800o1mvi19i4bcokppimev61om4ss4fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5l6Mzq_3hEItyp1eT1gg-gfv4R4FB3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
